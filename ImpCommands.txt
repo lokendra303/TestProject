@@ -1,0 +1,16 @@
+1.->  "git status" => use without commas this comand for check status
+2.->  "gti log" =>
+3.->  "git add ." => add all files
+4.->  "git reset history commite" => use for reset previous file data
+5.->  "git stash" =>
+6.->  "git stash pop"
+7.->  "gti stash clear"
+8.->  "git commit -m"
+9.->  "git remote add origin (copy here your project folder link )"
+10.-> "git push origin main or master"
+11.-> "git branch feature"
+12.-> "git chackout main"
+13.-> "git merge feature"
+
+
+key-  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
